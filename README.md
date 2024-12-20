@@ -41,6 +41,10 @@ npm run dev
 - 3 cards are winning cards, 1 is a losing card
 - If you choose the correct card, your score increases and a new round starts
 - If you choose the wrong card, the game ends
+ 
+## Prod
+
+https://card-game-react-7nu8sr8l2-anilcetins-projects.vercel.app
 
 ## License
 
