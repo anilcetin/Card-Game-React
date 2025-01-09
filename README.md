@@ -47,5 +47,4 @@ npm run dev
 https://card-game-react-7nu8sr8l2-anilcetins-projects.vercel.app
 
 ## License
-
 MIT 
