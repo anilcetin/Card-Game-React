@@ -43,7 +43,6 @@ npm run dev
 - If you choose the wrong card, the game ends
  
 ## Prod
-
 https://card-game-react-7nu8sr8l2-anilcetins-projects.vercel.app
 
 ## License
